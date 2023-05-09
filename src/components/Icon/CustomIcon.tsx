@@ -4,7 +4,7 @@ import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityI
 
 type IconProps = {
   iconSet: 'FontAwesome5' | 'MaterialCommunityIcons';
-  name: string;
+  name: string|any;
   size?: number;
   color?: string;
   style?: object;
