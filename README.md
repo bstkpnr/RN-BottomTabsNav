@@ -23,5 +23,7 @@
 <img src="./assets/img/img4.png" width='200px'>
 <img src="./assets/img/img5.png" width='200px'>
 <img src="./assets/img/img6.png" width='200px'>
+<img src="./assets/img/project.gif" width='200px'>
+
 </div>
-## https://medium.com/@bstkpnr/developing-a-simple-app-with-react-native-using-react-navigation-ef8247bfb27d
+https://medium.com/@bstkpnr/developing-a-simple-app-with-react-native-using-react-navigation-ef8247bfb27d
