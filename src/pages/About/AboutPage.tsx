@@ -1,6 +1,6 @@
 import React from 'react';
-import { Text, View } from 'react-native';
-import styles from './About.style'
+import {Text, View} from 'react-native';
+import styles from './About.style';
 
 const AboutPage: React.FC = () => {
   return (
