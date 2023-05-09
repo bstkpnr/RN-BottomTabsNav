@@ -1,6 +1,6 @@
 import React from 'react';
-import { Text, View } from 'react-native';
-import styles from './ReadPage.style'
+import {Text, View} from 'react-native';
+import styles from './ReadPage.style';
 
 const ReadPage: React.FC = () => {
   return (
