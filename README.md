@@ -15,7 +15,7 @@
 <li>npx react-native run-android</li>
 </ul>
 
-### 👋
+### 👋👋
 <div class="d-flex align-items-center justify-content-center" style="height: 250px;">
 <img src="./assets/img/img1.png" width='200px'>
 <img src="./assets/img/img2.png" width='200px'>
