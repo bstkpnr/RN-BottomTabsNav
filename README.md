@@ -1,0 +1,1 @@
+## This repo has a collection of project and medium articles related to the react-native structure.
